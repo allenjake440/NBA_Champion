@@ -18,3 +18,28 @@
    - Player Playoffs Advanced Stats
    - Coach Register
    - Player MVP Shares 
+   - Player All-Defensive Selections
+   - Player All-NBA Selections
+   - Player DPOY Shares
+   - Coach COY Shares
+   - Player SMOY Shares
+   - Player MIP Shares
+   - Player All-Star Selections
+   ###### Other Stats:
+   - Team Playoff Wins
+   - Pre-Season odds via basketballreference
+   - Pre-Playoff Odds via SportsOddsHistory
+
+2. Merged (joined) Data Tables:
+   
+   ###### Team Database:
+    - Merged all team datatables and stats
+      
+   ###### Player Database:
+    - Merged all player datatables and stats
+  
+   ###### Coach Database:
+    - Merged all coach datatables and stats
+
+3. Info on all Custom Calculated Features:
+   - Visit the NBA DataBase Feature Overview file
