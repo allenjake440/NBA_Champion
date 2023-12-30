@@ -2,7 +2,7 @@
 
 ## Using Machine Learning in preparation to predict the 2024 NBA Champion right before the playoffs (April 2024).
 
-### ![Medium Article](https://allenjake440.medium.com/predicting-the-nba-champion-with-machine-learning-f0e98864ff3d)
+### ![Medium Article](https://medium.com/@allenjake440/predicting-the-nba-champion-with-machine-learning-25e3a45a82f9)
 
 #### Acquired Data since 1950 from ![basketballreference](https://www.basketball-reference.com/about/glossary.html)
 ##### Database Construction:
