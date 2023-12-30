@@ -1,6 +1,8 @@
 ![NBA Champion Art](https://github.com/allenjake440/NBA_Champion/assets/134075534/b7d724d9-5452-45d2-abac-81128c34a8f6)
 
-### ![Medium Article]
+Using Machine Learning in preparation to predict the 2024 NBA Champion right before the playoffs (April 2024).
+
+### ![Medium Article]https://allenjake440.medium.com/predicting-the-nba-champion-with-machine-learning-f0e98864ff3d
 
 #### Acquired Data since 1950 from ![basketballreference]
 ##### Database Construction:
