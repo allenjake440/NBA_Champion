@@ -1,271 +1,301 @@
 predicted champion share,champion share,Team,Season,Team/Season
-0.6326121205914632,1.0,Golden State Warriors,2015,Golden State Warriors 2015
-0.4994135927170111,0.5,Atlanta Hawks,2015,Atlanta Hawks 2015
-0.5921440099479962,0.4375,Los Angeles Clippers,2015,Los Angeles Clippers 2015
-0.581349161362316,0.5625,Houston Rockets,2015,Houston Rockets 2015
-0.15934341900771845,0.375,Memphis Grizzlies,2015,Memphis Grizzlies 2015
-0.15834589577423616,0.1875,San Antonio Spurs,2015,San Antonio Spurs 2015
-0.6288661356280912,0.875,Cleveland Cavaliers,2015,Cleveland Cavaliers 2015
-0.089177508316242,0.0625,Portland Trail Blazers,2015,Portland Trail Blazers 2015
-0.05385419443328254,0.0625,Dallas Mavericks,2015,Dallas Mavericks 2015
-0.5370115153600471,0.375,Chicago Bulls,2015,Chicago Bulls 2015
-0.1139484954831066,0.0,Toronto Raptors,2015,Toronto Raptors 2015
-0.14043751350120245,0.375,Washington Wizards,2015,Washington Wizards 2015
-0.06536145916024001,0.0,Oklahoma City Thunder,2015,Oklahoma City Thunder 2015
-0.10341739042970026,0.0,New Orleans Pelicans,2015,New Orleans Pelicans 2015
-0.039074737703529795,0.125,Milwaukee Bucks,2015,Milwaukee Bucks 2015
-0.039074737703529795,0.0,Boston Celtics,2015,Boston Celtics 2015
-0.021522031680392104,0.0,Phoenix Suns,2015,Phoenix Suns 2015
-0.08529614250846686,0.0,Utah Jazz,2015,Utah Jazz 2015
-0.047385715419178936,0.0,Indiana Pacers,2015,Indiana Pacers 2015
-0.029833009396041246,0.125,Brooklyn Nets,2015,Brooklyn Nets 2015
-0.029833009396041246,0.0,Miami Heat,2015,Miami Heat 2015
-0.021522031680392104,0.0,Charlotte Hornets,2015,Charlotte Hornets 2015
-0.03635584843722397,0.0,Detroit Pistons,2015,Detroit Pistons 2015
-0.021522031680392104,0.0,Denver Nuggets,2015,Denver Nuggets 2015
-0.021522031680392104,0.0,Sacramento Kings,2015,Sacramento Kings 2015
-0.021522031680392104,0.0,Orlando Magic,2015,Orlando Magic 2015
-0.021522031680392104,0.0,Los Angeles Lakers,2015,Los Angeles Lakers 2015
-0.021522031680392104,0.0,Philadelphia 76ers,2015,Philadelphia 76ers 2015
-0.021522031680392104,0.0,New York Knicks,2015,New York Knicks 2015
-0.021522031680392104,0.0,Minnesota Timberwolves,2015,Minnesota Timberwolves 2015
-0.6644702256875231,0.9375,Golden State Warriors,2016,Golden State Warriors 2016
-0.664510693089999,0.375,San Antonio Spurs,2016,San Antonio Spurs 2016
-0.716075337763578,1.0,Cleveland Cavaliers,2016,Cleveland Cavaliers 2016
-0.4526180784734057,0.625,Toronto Raptors,2016,Toronto Raptors 2016
-0.5606592192849985,0.6875,Oklahoma City Thunder,2016,Oklahoma City Thunder 2016
-0.038497606965858626,0.125,Los Angeles Clippers,2016,Los Angeles Clippers 2016
-0.48758794940164635,0.4375,Miami Heat,2016,Miami Heat 2016
-0.4953042468915489,0.1875,Charlotte Hornets,2016,Charlotte Hornets 2016
-0.4708021061232532,0.125,Boston Celtics,2016,Boston Celtics 2016
-0.4785558258600744,0.25,Atlanta Hawks,2016,Atlanta Hawks 2016
-0.09778800473783518,0.1875,Indiana Pacers,2016,Indiana Pacers 2016
-0.1367969009232541,0.0,Detroit Pistons,2016,Detroit Pistons 2016
-0.029764589559404666,0.3125,Portland Trail Blazers,2016,Portland Trail Blazers 2016
-0.14758429261202544,0.0,Chicago Bulls,2016,Chicago Bulls 2016
-0.016067518485028607,0.0,Memphis Grizzlies,2016,Memphis Grizzlies 2016
-0.021208692076476365,0.0625,Dallas Mavericks,2016,Dallas Mavericks 2016
-0.1356190846953527,0.0625,Houston Rockets,2016,Houston Rockets 2016
-0.021208692076476365,0.0,Washington Wizards,2016,Washington Wizards 2016
-0.038497606965858626,0.0,Utah Jazz,2016,Utah Jazz 2016
-0.016067518485028607,0.0,Orlando Magic,2016,Orlando Magic 2016
-0.016067518485028607,0.0,Milwaukee Bucks,2016,Milwaukee Bucks 2016
-0.016067518485028607,0.0,Denver Nuggets,2016,Denver Nuggets 2016
-0.029764589559404666,0.0,Sacramento Kings,2016,Sacramento Kings 2016
-0.021208692076476365,0.0,New York Knicks,2016,New York Knicks 2016
-0.021208692076476365,0.0,New Orleans Pelicans,2016,New Orleans Pelicans 2016
-0.016067518485028607,0.0,Minnesota Timberwolves,2016,Minnesota Timberwolves 2016
-0.016067518485028607,0.0,Phoenix Suns,2016,Phoenix Suns 2016
-0.016067518485028607,0.0,Brooklyn Nets,2016,Brooklyn Nets 2016
-0.016067518485028607,0.0,Los Angeles Lakers,2016,Los Angeles Lakers 2016
-0.016067518485028607,0.0,Philadelphia 76ers,2016,Philadelphia 76ers 2016
-0.8872042309374694,1.0,Golden State Warriors,2017,Golden State Warriors 2017
-0.5983997111064193,0.5,San Antonio Spurs,2017,San Antonio Spurs 2017
-0.5474502687407493,0.375,Houston Rockets,2017,Houston Rockets 2017
-0.499356285724253,0.5625,Boston Celtics,2017,Boston Celtics 2017
-0.16466815647436836,0.1875,Los Angeles Clippers,2017,Los Angeles Clippers 2017
-0.13304841698166053,0.25,Utah Jazz,2017,Utah Jazz 2017
-0.4769938217109119,0.25,Toronto Raptors,2017,Toronto Raptors 2017
-0.5918308798267233,0.8125,Cleveland Cavaliers,2017,Cleveland Cavaliers 2017
-0.06975166067880852,0.4375,Washington Wizards,2017,Washington Wizards 2017
-0.13825148833474415,0.0625,Oklahoma City Thunder,2017,Oklahoma City Thunder 2017
-0.12619661172833624,0.125,Atlanta Hawks,2017,Atlanta Hawks 2017
-0.12619661172833624,0.125,Memphis Grizzlies,2017,Memphis Grizzlies 2017
-0.13432110601059458,0.125,Milwaukee Bucks,2017,Milwaukee Bucks 2017
-0.11470222019794296,0.0,Indiana Pacers,2017,Indiana Pacers 2017
-0.07961026683158233,0.0,Portland Trail Blazers,2017,Portland Trail Blazers 2017
-0.11470222019794296,0.0,Miami Heat,2017,Miami Heat 2017
-0.14454280851205378,0.125,Chicago Bulls,2017,Chicago Bulls 2017
-0.11562580162264302,0.0,Denver Nuggets,2017,Denver Nuggets 2017
-0.01850524100130977,0.0,Detroit Pistons,2017,Detroit Pistons 2017
-0.02521476044265504,0.0,Charlotte Hornets,2017,Charlotte Hornets 2017
-0.14775085104702412,0.0,New Orleans Pelicans,2017,New Orleans Pelicans 2017
-0.14775085104702412,0.0,Dallas Mavericks,2017,Dallas Mavericks 2017
-0.14775085104702412,0.0,Sacramento Kings,2017,Sacramento Kings 2017
-0.01850524100130977,0.0,New York Knicks,2017,New York Knicks 2017
-0.02521476044265504,0.0,Minnesota Timberwolves,2017,Minnesota Timberwolves 2017
-0.01850524100130977,0.0,Orlando Magic,2017,Orlando Magic 2017
-0.01850524100130977,0.0,Philadelphia 76ers,2017,Philadelphia 76ers 2017
-0.01850524100130977,0.0,Los Angeles Lakers,2017,Los Angeles Lakers 2017
-0.01850524100130977,0.0,Phoenix Suns,2017,Phoenix Suns 2017
-0.01850524100130977,0.0,Brooklyn Nets,2017,Brooklyn Nets 2017
-0.5326498311520608,0.6875,Houston Rockets,2018,Houston Rockets 2018
-0.45832302802151753,0.25,Toronto Raptors,2018,Toronto Raptors 2018
-0.8370090043347371,1.0,Golden State Warriors,2018,Golden State Warriors 2018
-0.4578973069725207,0.6875,Boston Celtics,2018,Boston Celtics 2018
-0.40033073246827816,0.3125,Philadelphia 76ers,2018,Philadelphia 76ers 2018
-0.5324871295865942,0.75,Cleveland Cavaliers,2018,Cleveland Cavaliers 2018
-0.45204470385498263,0.0,Portland Trail Blazers,2018,Portland Trail Blazers 2018
-0.09604203420205937,0.3125,Utah Jazz,2018,Utah Jazz 2018
-0.13737215177189807,0.125,Oklahoma City Thunder,2018,Oklahoma City Thunder 2018
-0.12887690296489632,0.1875,Indiana Pacers,2018,Indiana Pacers 2018
-0.32373021016101206,0.3125,New Orleans Pelicans,2018,New Orleans Pelicans 2018
-0.10514910582284365,0.0625,San Antonio Spurs,2018,San Antonio Spurs 2018
-0.03348603167555212,0.0625,Minnesota Timberwolves,2018,Minnesota Timberwolves 2018
-0.05742435221390497,0.0,Denver Nuggets,2018,Denver Nuggets 2018
-0.12826508015111376,0.0625,Miami Heat,2018,Miami Heat 2018
-0.32373021016101206,0.1875,Milwaukee Bucks,2018,Milwaukee Bucks 2018
-0.12826508015111376,0.125,Washington Wizards,2018,Washington Wizards 2018
-0.13450904148770795,0.0,Los Angeles Clippers,2018,Los Angeles Clippers 2018
-0.017672577664135686,0.0,Detroit Pistons,2018,Detroit Pistons 2018
-0.03348603167555212,0.0,Charlotte Hornets,2018,Charlotte Hornets 2018
-0.02698635416503062,0.0,Los Angeles Lakers,2018,Los Angeles Lakers 2018
-0.017672577664135686,0.0,New York Knicks,2018,New York Knicks 2018
-0.017672577664135686,0.0,Brooklyn Nets,2018,Brooklyn Nets 2018
-0.017672577664135686,0.0,Chicago Bulls,2018,Chicago Bulls 2018
-0.11976983134411201,0.0,Sacramento Kings,2018,Sacramento Kings 2018
-0.017672577664135686,0.0,Orlando Magic,2018,Orlando Magic 2018
-0.017672577664135686,0.0,Atlanta Hawks,2018,Atlanta Hawks 2018
-0.017672577664135686,0.0,Dallas Mavericks,2018,Dallas Mavericks 2018
-0.017672577664135686,0.0,Memphis Grizzlies,2018,Memphis Grizzlies 2018
-0.017672577664135686,0.0,Phoenix Suns,2018,Phoenix Suns 2018
-0.5785497073549568,0.625,Milwaukee Bucks,2019,Milwaukee Bucks 2019
-0.5390149411688709,1.0,Toronto Raptors,2019,Toronto Raptors 2019
-0.790110471302128,0.875,Golden State Warriors,2019,Golden State Warriors 2019
-0.48336190884765967,0.4375,Denver Nuggets,2019,Denver Nuggets 2019
-0.5316012773671502,0.375,Houston Rockets,2019,Houston Rockets 2019
-0.49112666579870123,0.5,Portland Trail Blazers,2019,Portland Trail Blazers 2019
-0.5390149411688709,0.4375,Philadelphia 76ers,2019,Philadelphia 76ers 2019
-0.12258908446467383,0.0625,Utah Jazz,2019,Utah Jazz 2019
-0.1351109743738945,0.0625,Oklahoma City Thunder,2019,Oklahoma City Thunder 2019
-0.09855069943528749,0.3125,Boston Celtics,2019,Boston Celtics 2019
-0.1418803069037182,0.1875,San Antonio Spurs,2019,San Antonio Spurs 2019
-0.05711615318278962,0.125,Los Angeles Clippers,2019,Los Angeles Clippers 2019
-0.05087263323446606,0.0,Indiana Pacers,2019,Indiana Pacers 2019
-0.09855069943528749,0.0625,Brooklyn Nets,2019,Brooklyn Nets 2019
-0.11594783383574177,0.0625,Orlando Magic,2019,Orlando Magic 2019
-0.11594783383574177,0.0,Detroit Pistons,2019,Detroit Pistons 2019
-0.01869209414218746,0.0,Sacramento Kings,2019,Sacramento Kings 2019
-0.024935614090511014,0.0,Charlotte Hornets,2019,Charlotte Hornets 2019
-0.08733039099735274,0.0,Miami Heat,2019,Miami Heat 2019
-0.03271383054327697,0.0,Los Angeles Lakers,2019,Los Angeles Lakers 2019
-0.03271383054327697,0.0,Minnesota Timberwolves,2019,Minnesota Timberwolves 2019
-0.09230717948696394,0.0,Dallas Mavericks,2019,Dallas Mavericks 2019
-0.03271383054327697,0.0,New Orleans Pelicans,2019,New Orleans Pelicans 2019
-0.12258908446467383,0.0,Memphis Grizzlies,2019,Memphis Grizzlies 2019
-0.024935614090511014,0.0,Washington Wizards,2019,Washington Wizards 2019
-0.05097434715717369,0.0,Atlanta Hawks,2019,Atlanta Hawks 2019
-0.013715305652576245,0.0,Chicago Bulls,2019,Chicago Bulls 2019
-0.024792659050261432,0.0,Cleveland Cavaliers,2019,Cleveland Cavaliers 2019
-0.024792659050261432,0.0,Phoenix Suns,2019,Phoenix Suns 2019
-0.013715305652576245,0.0,New York Knicks,2019,New York Knicks 2019
-0.5719239885380012,0.3125,Milwaukee Bucks,2020,Milwaukee Bucks 2020
-0.4989681156454582,0.4375,Toronto Raptors,2020,Toronto Raptors 2020
-0.6298813827088493,1.0,Los Angeles Lakers,2020,Los Angeles Lakers 2020
-0.628197837187925,0.4375,Los Angeles Clippers,2020,Los Angeles Clippers 2020
-0.4995590229596758,0.625,Boston Celtics,2020,Boston Celtics 2020
-0.49866429986602373,0.5625,Denver Nuggets,2020,Denver Nuggets 2020
-0.1873647836263749,0.0,Indiana Pacers,2020,Indiana Pacers 2020
-0.12757950918701627,0.3125,Houston Rockets,2020,Houston Rockets 2020
-0.1873647836263749,0.1875,Oklahoma City Thunder,2020,Oklahoma City Thunder 2020
-0.11946516539155067,0.1875,Utah Jazz,2020,Utah Jazz 2020
-0.20840035036177987,0.875,Miami Heat,2020,Miami Heat 2020
-0.11946516539155067,0.0,Philadelphia 76ers,2020,Philadelphia 76ers 2020
-0.12757950918701627,0.125,Dallas Mavericks,2020,Dallas Mavericks 2020
-0.1065439424516113,0.0,Brooklyn Nets,2020,Brooklyn Nets 2020
-0.12757950918701627,0.0625,Portland Trail Blazers,2020,Portland Trail Blazers 2020
-0.1065439424516113,0.0,Memphis Grizzlies,2020,Memphis Grizzlies 2020
-0.12757950918701627,0.0,Phoenix Suns,2020,Phoenix Suns 2020
-0.008359913980944763,0.0625,Orlando Magic,2020,Orlando Magic 2020
-0.1065439424516113,0.0,San Antonio Spurs,2020,San Antonio Spurs 2020
-0.1065439424516113,0.0,Sacramento Kings,2020,Sacramento Kings 2020
-0.008359913980944763,0.0,New Orleans Pelicans,2020,New Orleans Pelicans 2020
-0.013818976629294452,0.0,Charlotte Hornets,2020,Charlotte Hornets 2020
-0.03138903297167986,0.0,Washington Wizards,2020,Washington Wizards 2020
-0.08288262942673286,0.0,Chicago Bulls,2020,Chicago Bulls 2020
-0.013818976629294452,0.0,New York Knicks,2020,New York Knicks 2020
-0.08288262942673286,0.0,Detroit Pistons,2020,Detroit Pistons 2020
-0.008359913980944763,0.0,Atlanta Hawks,2020,Atlanta Hawks 2020
-0.008359913980944763,0.0,Minnesota Timberwolves,2020,Minnesota Timberwolves 2020
-0.016819423695122054,0.0,Cleveland Cavaliers,2020,Cleveland Cavaliers 2020
-0.0231864388264225,0.0,Golden State Warriors,2020,Golden State Warriors 2020
-0.5042116377037729,0.375,Utah Jazz,2021,Utah Jazz 2021
-0.4880247250203577,0.875,Phoenix Suns,2021,Phoenix Suns 2021
-0.405242689808591,0.4375,Philadelphia 76ers,2021,Philadelphia 76ers 2021
-0.5533807207788076,0.4375,Brooklyn Nets,2021,Brooklyn Nets 2021
-0.5432455428872994,0.625,Los Angeles Clippers,2021,Los Angeles Clippers 2021
-0.5717671145301093,0.25,Denver Nuggets,2021,Denver Nuggets 2021
-0.6072201215181735,1.0,Milwaukee Bucks,2021,Milwaukee Bucks 2021
-0.29320823460291773,0.1875,Dallas Mavericks,2021,Dallas Mavericks 2021
-0.03817829340989825,0.125,Portland Trail Blazers,2021,Portland Trail Blazers 2021
-0.20589382894524208,0.125,Los Angeles Lakers,2021,Los Angeles Lakers 2021
-0.10015997189180033,0.625,Atlanta Hawks,2021,Atlanta Hawks 2021
-0.026938390332642847,0.0625,New York Knicks,2021,New York Knicks 2021
-0.06181070081663898,0.0,Miami Heat,2021,Miami Heat 2021
-0.5027463324244079,0.0,Golden State Warriors,2021,Golden State Warriors 2021
-0.11149859068858242,0.0625,Memphis Grizzlies,2021,Memphis Grizzlies 2021
-0.11149859068858242,0.0625,Boston Celtics,2021,Boston Celtics 2021
-0.017779884191084706,0.0,Indiana Pacers,2021,Indiana Pacers 2021
-0.1260455844345861,0.0625,Washington Wizards,2021,Washington Wizards 2021
-0.017779884191084706,0.0,Charlotte Hornets,2021,Charlotte Hornets 2021
-0.017779884191084706,0.0,San Antonio Spurs,2021,San Antonio Spurs 2021
-0.16020248847407717,0.0,Sacramento Kings,2021,Sacramento Kings 2021
-0.1600809788213778,0.0,Chicago Bulls,2021,Chicago Bulls 2021
-0.11149859068858242,0.0,New Orleans Pelicans,2021,New Orleans Pelicans 2021
-0.10015997189180033,0.0,Toronto Raptors,2021,Toronto Raptors 2021
-0.017779884191084706,0.0,Minnesota Timberwolves,2021,Minnesota Timberwolves 2021
-0.02705989998534221,0.0,Oklahoma City Thunder,2021,Oklahoma City Thunder 2021
-0.017779884191084706,0.0,Cleveland Cavaliers,2021,Cleveland Cavaliers 2021
-0.017779884191084706,0.0,Orlando Magic,2021,Orlando Magic 2021
-0.017779884191084706,0.0,Detroit Pistons,2021,Detroit Pistons 2021
-0.017779884191084706,0.0,Houston Rockets,2021,Houston Rockets 2021
-0.5525591178346843,0.4375,Phoenix Suns,2022,Phoenix Suns 2022
-0.5178972140571695,0.375,Memphis Grizzlies,2022,Memphis Grizzlies 2022
-0.5760938536256828,1.0,Golden State Warriors,2022,Golden State Warriors 2022
-0.5111234159288434,0.6875,Miami Heat,2022,Miami Heat 2022
-0.12145344342481323,0.5625,Dallas Mavericks,2022,Dallas Mavericks 2022
-0.5283222140586695,0.875,Boston Celtics,2022,Boston Celtics 2022
-0.5615393370576698,0.4375,Milwaukee Bucks,2022,Milwaukee Bucks 2022
-0.5376379431271431,0.375,Philadelphia 76ers,2022,Philadelphia 76ers 2022
-0.12145344342481323,0.125,Utah Jazz,2022,Utah Jazz 2022
-0.12145344342481323,0.0625,Denver Nuggets,2022,Denver Nuggets 2022
-0.12145344342481323,0.125,Toronto Raptors,2022,Toronto Raptors 2022
-0.12145344342481323,0.125,Minnesota Timberwolves,2022,Minnesota Timberwolves 2022
-0.03148673751940778,0.0625,Chicago Bulls,2022,Chicago Bulls 2022
-0.1656567764640627,0.0,Brooklyn Nets,2022,Brooklyn Nets 2022
-0.12145344342481323,0.0,Cleveland Cavaliers,2022,Cleveland Cavaliers 2022
-0.12145344342481323,0.0625,Atlanta Hawks,2022,Atlanta Hawks 2022
-0.08153910416807605,0.0,Charlotte Hornets,2022,Charlotte Hornets 2022
-0.10625138871368572,0.0,Los Angeles Clippers,2022,Los Angeles Clippers 2022
-0.10625138871368572,0.0,New York Knicks,2022,New York Knicks 2022
-0.015329555462280558,0.125,New Orleans Pelicans,2022,New Orleans Pelicans 2022
-0.10625138871368572,0.0,Washington Wizards,2022,Washington Wizards 2022
-0.02329762082386105,0.0,San Antonio Spurs,2022,San Antonio Spurs 2022
-0.06631251061104981,0.0,Los Angeles Lakers,2022,Los Angeles Lakers 2022
-0.011563826891972447,0.0,Sacramento Kings,2022,Sacramento Kings 2022
-0.10625138871368572,0.0,Portland Trail Blazers,2022,Portland Trail Blazers 2022
-0.011563826891972447,0.0,Indiana Pacers,2022,Indiana Pacers 2022
-0.011563826891972447,0.0,Oklahoma City Thunder,2022,Oklahoma City Thunder 2022
-0.011563826891972447,0.0,Detroit Pistons,2022,Detroit Pistons 2022
-0.011563826891972447,0.0,Orlando Magic,2022,Orlando Magic 2022
-0.011563826891972447,0.0,Houston Rockets,2022,Houston Rockets 2022
-0.5530784197960699,0.0625,Milwaukee Bucks,2023,Milwaukee Bucks 2023
-0.5451693805978887,0.6875,Boston Celtics,2023,Boston Celtics 2023
-0.532786035747764,0.4375,Philadelphia 76ers,2023,Philadelphia 76ers 2023
-0.5568992968952985,1.0,Denver Nuggets,2023,Denver Nuggets 2023
-0.5083024712556908,0.125,Memphis Grizzlies,2023,Memphis Grizzlies 2023
-0.17431503326101014,0.0625,Cleveland Cavaliers,2023,Cleveland Cavaliers 2023
-0.3832328782464101,0.1875,Sacramento Kings,2023,Sacramento Kings 2023
-0.14922182336070952,0.375,New York Knicks,2023,New York Knicks 2023
-0.016474802421942637,0.0,Brooklyn Nets,2023,Brooklyn Nets 2023
-0.15606781619928908,0.375,Phoenix Suns,2023,Phoenix Suns 2023
-0.16928181300871278,0.8125,Miami Heat,2023,Miami Heat 2023
-0.17756364688939463,0.375,Golden State Warriors,2023,Golden State Warriors 2023
-0.020723947641724746,0.0625,Los Angeles Clippers,2023,Los Angeles Clippers 2023
-0.12037550890496658,0.5,Los Angeles Lakers,2023,Los Angeles Lakers 2023
-0.08335343268941366,0.0,New Orleans Pelicans,2023,New Orleans Pelicans 2023
-0.12037550890496658,0.125,Atlanta Hawks,2023,Atlanta Hawks 2023
-0.11814956132903522,0.0625,Minnesota Timberwolves,2023,Minnesota Timberwolves 2023
-0.12037550890496658,0.0,Toronto Raptors,2023,Toronto Raptors 2023
-0.15985984157327418,0.0,Oklahoma City Thunder,2023,Oklahoma City Thunder 2023
-0.25770517986258845,0.0,Chicago Bulls,2023,Chicago Bulls 2023
-0.0743661431532346,0.0,Dallas Mavericks,2023,Dallas Mavericks 2023
-0.12037550890496658,0.0,Utah Jazz,2023,Utah Jazz 2023
-0.020723947641724746,0.0,Washington Wizards,2023,Washington Wizards 2023
-0.016474802421942637,0.0,Indiana Pacers,2023,Indiana Pacers 2023
-0.016474802421942637,0.0,Orlando Magic,2023,Orlando Magic 2023
-0.027600955620287665,0.0,Portland Trail Blazers,2023,Portland Trail Blazers 2023
-0.016474802421942637,0.0,Charlotte Hornets,2023,Charlotte Hornets 2023
-0.016474802421942637,0.0,Houston Rockets,2023,Houston Rockets 2023
-0.016474802421942637,0.0,San Antonio Spurs,2023,San Antonio Spurs 2023
-0.016474802421942637,0.0,Detroit Pistons,2023,Detroit Pistons 2023
+0.604701944852588,1.0,San Antonio Spurs,2014,San Antonio Spurs 2014
+0.7397158259789618,0.625,Oklahoma City Thunder,2014,Oklahoma City Thunder 2014
+0.561282577564283,0.375,Los Angeles Clippers,2014,Los Angeles Clippers 2014
+0.46228925798347664,0.625,Indiana Pacers,2014,Indiana Pacers 2014
+0.26255877519888465,0.125,Houston Rockets,2014,Houston Rockets 2014
+0.8810892857642857,0.8125,Miami Heat,2014,Miami Heat 2014
+0.11688057046747632,0.3125,Portland Trail Blazers,2014,Portland Trail Blazers 2014
+0.12620855620172766,0.1875,Golden State Warriors,2014,Golden State Warriors 2014
+0.12304035799617015,0.1875,Memphis Grizzlies,2014,Memphis Grizzlies 2014
+0.12304035799617015,0.1875,Dallas Mavericks,2014,Dallas Mavericks 2014
+0.48038016670635086,0.1875,Toronto Raptors,2014,Toronto Raptors 2014
+0.3402245341041056,0.0625,Chicago Bulls,2014,Chicago Bulls 2014
+0.11688057046747632,0.0,Phoenix Suns,2014,Phoenix Suns 2014
+0.15795428634064684,0.3125,Brooklyn Nets,2014,Brooklyn Nets 2014
+0.11312137816902616,0.375,Washington Wizards,2014,Washington Wizards 2014
+0.18366442260526492,0.0,Charlotte Bobcats,2014,Charlotte Bobcats 2014
+0.14355395230433016,0.0,Minnesota Timberwolves,2014,Minnesota Timberwolves 2014
+0.09981416481560865,0.1875,Atlanta Hawks,2014,Atlanta Hawks 2014
+0.16759867272121032,0.0,New York Knicks,2014,New York Knicks 2014
+0.025366380087032802,0.0,Denver Nuggets,2014,Denver Nuggets 2014
+0.0022395743135522218,0.0,New Orleans Pelicans,2014,New Orleans Pelicans 2014
+0.006766089467718887,0.0,Cleveland Cavaliers,2014,Cleveland Cavaliers 2014
+0.006766089467718887,0.0,Detroit Pistons,2014,Detroit Pistons 2014
+0.0022395743135522218,0.0,Sacramento Kings,2014,Sacramento Kings 2014
+0.07174529163818655,0.0,Los Angeles Lakers,2014,Los Angeles Lakers 2014
+0.006766089467718887,0.0,Boston Celtics,2014,Boston Celtics 2014
+0.0022395743135522218,0.0,Utah Jazz,2014,Utah Jazz 2014
+0.006766089467718887,0.0,Orlando Magic,2014,Orlando Magic 2014
+0.0022395743135522218,0.0,Philadelphia 76ers,2014,Philadelphia 76ers 2014
+0.0022395743135522218,0.0,Milwaukee Bucks,2014,Milwaukee Bucks 2014
+0.6704429727258836,1.0,Golden State Warriors,2015,Golden State Warriors 2015
+0.5236900679117679,0.5,Atlanta Hawks,2015,Atlanta Hawks 2015
+0.5208900246489592,0.4375,Los Angeles Clippers,2015,Los Angeles Clippers 2015
+0.5169537117867382,0.5625,Houston Rockets,2015,Houston Rockets 2015
+0.13219623734490463,0.375,Memphis Grizzlies,2015,Memphis Grizzlies 2015
+0.21636668690067218,0.1875,San Antonio Spurs,2015,San Antonio Spurs 2015
+0.6348145066156919,0.875,Cleveland Cavaliers,2015,Cleveland Cavaliers 2015
+0.13643885343326947,0.0625,Portland Trail Blazers,2015,Portland Trail Blazers 2015
+0.12231799387758222,0.0625,Dallas Mavericks,2015,Dallas Mavericks 2015
+0.635567867884675,0.375,Chicago Bulls,2015,Chicago Bulls 2015
+0.1213662486755934,0.0,Toronto Raptors,2015,Toronto Raptors 2015
+0.05291856174188212,0.375,Washington Wizards,2015,Washington Wizards 2015
+0.47101622156233997,0.0,Oklahoma City Thunder,2015,Oklahoma City Thunder 2015
+0.13093075663763626,0.0,New Orleans Pelicans,2015,New Orleans Pelicans 2015
+0.08415125831233823,0.125,Milwaukee Bucks,2015,Milwaukee Bucks 2015
+0.0883352284085488,0.0,Boston Celtics,2015,Boston Celtics 2015
+0.020531831371974018,0.0,Phoenix Suns,2015,Phoenix Suns 2015
+0.149363682008479,0.0,Utah Jazz,2015,Utah Jazz 2015
+0.08658574472519324,0.0,Indiana Pacers,2015,Indiana Pacers 2015
+0.0036686991733923,0.125,Brooklyn Nets,2015,Brooklyn Nets 2015
+0.11483325333901748,0.0,Miami Heat,2015,Miami Heat 2015
+0.0036686991733923,0.0,Charlotte Hornets,2015,Charlotte Hornets 2015
+0.04095778517983269,0.0,Detroit Pistons,2015,Detroit Pistons 2015
+0.0036686991733923,0.0,Denver Nuggets,2015,Denver Nuggets 2015
+0.0036686991733923,0.0,Sacramento Kings,2015,Sacramento Kings 2015
+0.0036686991733923,0.0,Orlando Magic,2015,Orlando Magic 2015
+0.013446050897073281,0.0,Los Angeles Lakers,2015,Los Angeles Lakers 2015
+0.052995324559770005,0.0,Philadelphia 76ers,2015,Philadelphia 76ers 2015
+0.0036686991733923,0.0,New York Knicks,2015,New York Knicks 2015
+0.0036686991733923,0.0,Minnesota Timberwolves,2015,Minnesota Timberwolves 2015
+0.6928460303360306,0.9375,Golden State Warriors,2016,Golden State Warriors 2016
+0.6827861258848898,0.375,San Antonio Spurs,2016,San Antonio Spurs 2016
+0.7537546684501368,1.0,Cleveland Cavaliers,2016,Cleveland Cavaliers 2016
+0.4260306869003118,0.625,Toronto Raptors,2016,Toronto Raptors 2016
+0.552758642456706,0.6875,Oklahoma City Thunder,2016,Oklahoma City Thunder 2016
+0.49883908284737916,0.125,Los Angeles Clippers,2016,Los Angeles Clippers 2016
+0.40712912226304476,0.4375,Miami Heat,2016,Miami Heat 2016
+0.3655973535486795,0.1875,Charlotte Hornets,2016,Charlotte Hornets 2016
+0.3372228510944628,0.125,Boston Celtics,2016,Boston Celtics 2016
+0.37457430430058347,0.25,Atlanta Hawks,2016,Atlanta Hawks 2016
+0.10585105144443048,0.1875,Indiana Pacers,2016,Indiana Pacers 2016
+0.13224320518793636,0.0,Detroit Pistons,2016,Detroit Pistons 2016
+0.10585105144443048,0.3125,Portland Trail Blazers,2016,Portland Trail Blazers 2016
+0.081218467962911,0.0,Chicago Bulls,2016,Chicago Bulls 2016
+0.012684994825484252,0.0,Memphis Grizzlies,2016,Memphis Grizzlies 2016
+0.10578936217703998,0.0625,Dallas Mavericks,2016,Dallas Mavericks 2016
+0.15109310565117004,0.0625,Houston Rockets,2016,Houston Rockets 2016
+0.08900010774174288,0.0,Washington Wizards,2016,Washington Wizards 2016
+0.10585105144443048,0.0,Utah Jazz,2016,Utah Jazz 2016
+0.002889790631789297,0.0,Orlando Magic,2016,Orlando Magic 2016
+0.002889790631789297,0.0,Milwaukee Bucks,2016,Milwaukee Bucks 2016
+0.002889790631789297,0.0,Denver Nuggets,2016,Denver Nuggets 2016
+0.002889790631789297,0.0,Sacramento Kings,2016,Sacramento Kings 2016
+0.002889790631789297,0.0,New York Knicks,2016,New York Knicks 2016
+0.002889790631789297,0.0,New Orleans Pelicans,2016,New Orleans Pelicans 2016
+0.01619164654455687,0.0,Minnesota Timberwolves,2016,Minnesota Timberwolves 2016
+0.002889790631789297,0.0,Phoenix Suns,2016,Phoenix Suns 2016
+0.002889790631789297,0.0,Brooklyn Nets,2016,Brooklyn Nets 2016
+0.07870900764991401,0.0,Los Angeles Lakers,2016,Los Angeles Lakers 2016
+0.002889790631789297,0.0,Philadelphia 76ers,2016,Philadelphia 76ers 2016
+0.7649269943235042,1.0,Golden State Warriors,2017,Golden State Warriors 2017
+0.6241422871568497,0.5,San Antonio Spurs,2017,San Antonio Spurs 2017
+0.5952909937850978,0.375,Houston Rockets,2017,Houston Rockets 2017
+0.3627606782131999,0.5625,Boston Celtics,2017,Boston Celtics 2017
+0.12540516089341572,0.1875,Los Angeles Clippers,2017,Los Angeles Clippers 2017
+0.15790782425312022,0.25,Utah Jazz,2017,Utah Jazz 2017
+0.46357974440527244,0.25,Toronto Raptors,2017,Toronto Raptors 2017
+0.6542449000591622,0.8125,Cleveland Cavaliers,2017,Cleveland Cavaliers 2017
+0.11552943588860912,0.4375,Washington Wizards,2017,Washington Wizards 2017
+0.14094498008133932,0.0625,Oklahoma City Thunder,2017,Oklahoma City Thunder 2017
+0.008809507016106308,0.125,Atlanta Hawks,2017,Atlanta Hawks 2017
+0.13519287716327894,0.125,Memphis Grizzlies,2017,Memphis Grizzlies 2017
+0.10977266384306057,0.125,Milwaukee Bucks,2017,Milwaukee Bucks 2017
+0.10510392949869332,0.0,Indiana Pacers,2017,Indiana Pacers 2017
+0.03404043395128003,0.0,Portland Trail Blazers,2017,Portland Trail Blazers 2017
+0.14134710473827272,0.0,Miami Heat,2017,Miami Heat 2017
+0.09420022449437454,0.125,Chicago Bulls,2017,Chicago Bulls 2017
+0.12708373231913,0.0,Denver Nuggets,2017,Denver Nuggets 2017
+0.013823848879275912,0.0,Detroit Pistons,2017,Detroit Pistons 2017
+0.07781864168683307,0.0,Charlotte Hornets,2017,Charlotte Hornets 2017
+0.10500830939874246,0.0,New Orleans Pelicans,2017,New Orleans Pelicans 2017
+0.10029852955761272,0.0,Dallas Mavericks,2017,Dallas Mavericks 2017
+0.1377985295576127,0.0,Sacramento Kings,2017,Sacramento Kings 2017
+0.0005433939339592173,0.0,New York Knicks,2017,New York Knicks 2017
+0.03404043395128003,0.0,Minnesota Timberwolves,2017,Minnesota Timberwolves 2017
+0.0005433939339592173,0.0,Orlando Magic,2017,Orlando Magic 2017
+0.0005433939339592173,0.0,Philadelphia 76ers,2017,Philadelphia 76ers 2017
+0.0005433939339592173,0.0,Los Angeles Lakers,2017,Los Angeles Lakers 2017
+0.0005433939339592173,0.0,Phoenix Suns,2017,Phoenix Suns 2017
+0.01279852955761272,0.0,Brooklyn Nets,2017,Brooklyn Nets 2017
+0.5166065171603931,0.6875,Houston Rockets,2018,Houston Rockets 2018
+0.4650388505778274,0.25,Toronto Raptors,2018,Toronto Raptors 2018
+0.8643169696339733,1.0,Golden State Warriors,2018,Golden State Warriors 2018
+0.4107303597621065,0.6875,Boston Celtics,2018,Boston Celtics 2018
+0.339396702497535,0.3125,Philadelphia 76ers,2018,Philadelphia 76ers 2018
+0.6415992351077294,0.75,Cleveland Cavaliers,2018,Cleveland Cavaliers 2018
+0.4195324701392356,0.0,Portland Trail Blazers,2018,Portland Trail Blazers 2018
+0.13675226372281465,0.3125,Utah Jazz,2018,Utah Jazz 2018
+0.16995676074520044,0.125,Oklahoma City Thunder,2018,Oklahoma City Thunder 2018
+0.14108147744757765,0.1875,Indiana Pacers,2018,Indiana Pacers 2018
+0.7205707660314097,0.3125,New Orleans Pelicans,2018,New Orleans Pelicans 2018
+0.10915935893605092,0.0625,San Antonio Spurs,2018,San Antonio Spurs 2018
+0.11830360301076108,0.0625,Minnesota Timberwolves,2018,Minnesota Timberwolves 2018
+0.13675226372281465,0.0,Denver Nuggets,2018,Denver Nuggets 2018
+0.09906570938839103,0.0625,Miami Heat,2018,Miami Heat 2018
+0.14637869426798517,0.1875,Milwaukee Bucks,2018,Milwaukee Bucks 2018
+0.12784369474424914,0.125,Washington Wizards,2018,Washington Wizards 2018
+0.14629235545630273,0.0,Los Angeles Clippers,2018,Los Angeles Clippers 2018
+0.013148198249874673,0.0,Detroit Pistons,2018,Detroit Pistons 2018
+0.05455755589822068,0.0,Charlotte Hornets,2018,Charlotte Hornets 2018
+0.0081714066459531,0.0,Los Angeles Lakers,2018,Los Angeles Lakers 2018
+0.0019834927386683317,0.0,New York Knicks,2018,New York Knicks 2018
+0.0017836494781667642,0.0,Brooklyn Nets,2018,Brooklyn Nets 2018
+0.0017836494781667642,0.0,Chicago Bulls,2018,Chicago Bulls 2018
+0.017348514560669707,0.0,Sacramento Kings,2018,Sacramento Kings 2018
+0.0017179827490784263,0.0,Orlando Magic,2018,Orlando Magic 2018
+0.0015181394885768586,0.0,Atlanta Hawks,2018,Atlanta Hawks 2018
+0.0015181394885768586,0.0,Dallas Mavericks,2018,Dallas Mavericks 2018
+0.0017836494781667642,0.0,Memphis Grizzlies,2018,Memphis Grizzlies 2018
+0.0019834927386683317,0.0,Phoenix Suns,2018,Phoenix Suns 2018
+0.5682106126808255,0.625,Milwaukee Bucks,2019,Milwaukee Bucks 2019
+0.5183578510014482,1.0,Toronto Raptors,2019,Toronto Raptors 2019
+0.8207576936032606,0.875,Golden State Warriors,2019,Golden State Warriors 2019
+0.4078649873974965,0.4375,Denver Nuggets,2019,Denver Nuggets 2019
+0.48035090974611616,0.375,Houston Rockets,2019,Houston Rockets 2019
+0.438572959986674,0.5,Portland Trail Blazers,2019,Portland Trail Blazers 2019
+0.48222780049538755,0.4375,Philadelphia 76ers,2019,Philadelphia 76ers 2019
+0.11488760043377548,0.0625,Utah Jazz,2019,Utah Jazz 2019
+0.24652323265189638,0.0625,Oklahoma City Thunder,2019,Oklahoma City Thunder 2019
+0.15480844677682337,0.3125,Boston Celtics,2019,Boston Celtics 2019
+0.11377238170134699,0.1875,San Antonio Spurs,2019,San Antonio Spurs 2019
+0.09161493669139613,0.125,Los Angeles Clippers,2019,Los Angeles Clippers 2019
+0.12588100682359168,0.0,Indiana Pacers,2019,Indiana Pacers 2019
+0.05207200427049781,0.0625,Brooklyn Nets,2019,Brooklyn Nets 2019
+0.047585820281099395,0.0625,Orlando Magic,2019,Orlando Magic 2019
+0.03677265822776173,0.0,Detroit Pistons,2019,Detroit Pistons 2019
+0.09065589313435067,0.0,Sacramento Kings,2019,Sacramento Kings 2019
+0.025634566894536824,0.0,Charlotte Hornets,2019,Charlotte Hornets 2019
+0.07578174255870124,0.0,Miami Heat,2019,Miami Heat 2019
+0.05462879447591157,0.0,Los Angeles Lakers,2019,Los Angeles Lakers 2019
+0.03351825697593373,0.0,Minnesota Timberwolves,2019,Minnesota Timberwolves 2019
+0.028804809301286843,0.0,Dallas Mavericks,2019,Dallas Mavericks 2019
+0.10310691206741122,0.0,New Orleans Pelicans,2019,New Orleans Pelicans 2019
+0.0011202991752431333,0.0,Memphis Grizzlies,2019,Memphis Grizzlies 2019
+0.000997519655493917,0.0,Washington Wizards,2019,Washington Wizards 2019
+0.0011202991752431333,0.0,Atlanta Hawks,2019,Atlanta Hawks 2019
+0.0011202991752431333,0.0,Chicago Bulls,2019,Chicago Bulls 2019
+0.0008813462449837673,0.0,Cleveland Cavaliers,2019,Cleveland Cavaliers 2019
+0.08665354971843184,0.0,Phoenix Suns,2019,Phoenix Suns 2019
+0.0011202991752431333,0.0,New York Knicks,2019,New York Knicks 2019
+0.6171839789667918,0.3125,Milwaukee Bucks,2020,Milwaukee Bucks 2020
+0.46022297727618416,0.4375,Toronto Raptors,2020,Toronto Raptors 2020
+0.6257253678823695,1.0,Los Angeles Lakers,2020,Los Angeles Lakers 2020
+0.5956125601645736,0.4375,Los Angeles Clippers,2020,Los Angeles Clippers 2020
+0.5059043500440457,0.625,Boston Celtics,2020,Boston Celtics 2020
+0.5184271138333589,0.5625,Denver Nuggets,2020,Denver Nuggets 2020
+0.330446521247617,0.0,Indiana Pacers,2020,Indiana Pacers 2020
+0.23959910338992327,0.3125,Houston Rockets,2020,Houston Rockets 2020
+0.40222518023717385,0.1875,Oklahoma City Thunder,2020,Oklahoma City Thunder 2020
+0.12476940042798394,0.1875,Utah Jazz,2020,Utah Jazz 2020
+0.35455817343039836,0.875,Miami Heat,2020,Miami Heat 2020
+0.12476940042798394,0.0,Philadelphia 76ers,2020,Philadelphia 76ers 2020
+0.14253178305333197,0.125,Dallas Mavericks,2020,Dallas Mavericks 2020
+0.039811259460429016,0.0,Brooklyn Nets,2020,Brooklyn Nets 2020
+0.13334902136708487,0.0625,Portland Trail Blazers,2020,Portland Trail Blazers 2020
+0.05224454329046031,0.0,Memphis Grizzlies,2020,Memphis Grizzlies 2020
+0.11362642519740143,0.0,Phoenix Suns,2020,Phoenix Suns 2020
+0.0022341299337916972,0.0625,Orlando Magic,2020,Orlando Magic 2020
+0.07792201820095677,0.0,San Antonio Spurs,2020,San Antonio Spurs 2020
+0.05207240549807969,0.0,Sacramento Kings,2020,Sacramento Kings 2020
+0.07067110866753214,0.0,New Orleans Pelicans,2020,New Orleans Pelicans 2020
+0.005371190530238334,0.0,Charlotte Hornets,2020,Charlotte Hornets 2020
+0.010023909893132569,0.0,Washington Wizards,2020,Washington Wizards 2020
+0.009060368222299237,0.0,Chicago Bulls,2020,Chicago Bulls 2020
+0.006334732201071667,0.0,New York Knicks,2020,New York Knicks 2020
+0.02430515989563257,0.0,Detroit Pistons,2020,Detroit Pistons 2020
+0.0022341299337916972,0.0,Atlanta Hawks,2020,Atlanta Hawks 2020
+0.0022341299337916972,0.0,Minnesota Timberwolves,2020,Minnesota Timberwolves 2020
+0.0022341299337916972,0.0,Cleveland Cavaliers,2020,Cleveland Cavaliers 2020
+0.0022341299337916972,0.0,Golden State Warriors,2020,Golden State Warriors 2020
+0.523871802778513,0.375,Utah Jazz,2021,Utah Jazz 2021
+0.5173638891209806,0.875,Phoenix Suns,2021,Phoenix Suns 2021
+0.4332868195704549,0.4375,Philadelphia 76ers,2021,Philadelphia 76ers 2021
+0.649930638832357,0.4375,Brooklyn Nets,2021,Brooklyn Nets 2021
+0.5989539339770906,0.625,Los Angeles Clippers,2021,Los Angeles Clippers 2021
+0.5284211402749811,0.25,Denver Nuggets,2021,Denver Nuggets 2021
+0.6518415613739648,1.0,Milwaukee Bucks,2021,Milwaukee Bucks 2021
+0.19891669011446372,0.1875,Dallas Mavericks,2021,Dallas Mavericks 2021
+0.100883555527809,0.125,Portland Trail Blazers,2021,Portland Trail Blazers 2021
+0.2585942702043515,0.125,Los Angeles Lakers,2021,Los Angeles Lakers 2021
+0.11904322179003053,0.625,Atlanta Hawks,2021,Atlanta Hawks 2021
+0.08915977124539795,0.0625,New York Knicks,2021,New York Knicks 2021
+0.43960322138316776,0.0,Miami Heat,2021,Miami Heat 2021
+0.5918397745579711,0.0,Golden State Warriors,2021,Golden State Warriors 2021
+0.11904322179003053,0.0625,Memphis Grizzlies,2021,Memphis Grizzlies 2021
+0.11904322179003053,0.0625,Boston Celtics,2021,Boston Celtics 2021
+0.01642348392292385,0.0,Indiana Pacers,2021,Indiana Pacers 2021
+0.01136699317946397,0.0625,Washington Wizards,2021,Washington Wizards 2021
+0.015836649424907857,0.0,Charlotte Hornets,2021,Charlotte Hornets 2021
+0.011337653387190259,0.0,San Antonio Spurs,2021,San Antonio Spurs 2021
+0.004870976778299139,0.0,Sacramento Kings,2021,Sacramento Kings 2021
+0.014503467570715597,0.0,Chicago Bulls,2021,Chicago Bulls 2021
+0.09506058650327773,0.0,New Orleans Pelicans,2021,New Orleans Pelicans 2021
+0.025796885059730483,0.0,Toronto Raptors,2021,Toronto Raptors 2021
+0.002662283033811797,0.0,Minnesota Timberwolves,2021,Minnesota Timberwolves 2021
+0.004870976778299139,0.0,Oklahoma City Thunder,2021,Oklahoma City Thunder 2021
+0.002662283033811797,0.0,Cleveland Cavaliers,2021,Cleveland Cavaliers 2021
+0.002662283033811797,0.0,Orlando Magic,2021,Orlando Magic 2021
+0.002662283033811797,0.0,Detroit Pistons,2021,Detroit Pistons 2021
+0.002662283033811797,0.0,Houston Rockets,2021,Houston Rockets 2021
+0.5106901454193628,0.4375,Phoenix Suns,2022,Phoenix Suns 2022
+0.5112699343002279,0.375,Memphis Grizzlies,2022,Memphis Grizzlies 2022
+0.5896734439458555,1.0,Golden State Warriors,2022,Golden State Warriors 2022
+0.48296521024272476,0.6875,Miami Heat,2022,Miami Heat 2022
+0.14745539851277906,0.5625,Dallas Mavericks,2022,Dallas Mavericks 2022
+0.5394670500622734,0.875,Boston Celtics,2022,Boston Celtics 2022
+0.49787633841519713,0.4375,Milwaukee Bucks,2022,Milwaukee Bucks 2022
+0.5031449488180189,0.375,Philadelphia 76ers,2022,Philadelphia 76ers 2022
+0.2328230025777161,0.125,Utah Jazz,2022,Utah Jazz 2022
+0.12251869980534316,0.0625,Denver Nuggets,2022,Denver Nuggets 2022
+0.1276264511597966,0.125,Toronto Raptors,2022,Toronto Raptors 2022
+0.1276264511597966,0.125,Minnesota Timberwolves,2022,Minnesota Timberwolves 2022
+0.024956843832537417,0.0625,Chicago Bulls,2022,Chicago Bulls 2022
+0.27449076372774883,0.0,Brooklyn Nets,2022,Brooklyn Nets 2022
+0.12251869980534316,0.0,Cleveland Cavaliers,2022,Cleveland Cavaliers 2022
+0.29435213445367003,0.0625,Atlanta Hawks,2022,Atlanta Hawks 2022
+0.11239057167160944,0.0,Charlotte Hornets,2022,Charlotte Hornets 2022
+0.1303192947727232,0.0,Los Angeles Clippers,2022,Los Angeles Clippers 2022
+0.016991375751088708,0.0,New York Knicks,2022,New York Knicks 2022
+0.02104700522073207,0.125,New Orleans Pelicans,2022,New Orleans Pelicans 2022
+0.05357593699393202,0.0,Washington Wizards,2022,Washington Wizards 2022
+0.014101695961205293,0.0,San Antonio Spurs,2022,San Antonio Spurs 2022
+0.0037504400784781388,0.0,Los Angeles Lakers,2022,Los Angeles Lakers 2022
+0.0033711757369496455,0.0,Sacramento Kings,2022,Sacramento Kings 2022
+0.0033711757369496455,0.0,Portland Trail Blazers,2022,Portland Trail Blazers 2022
+0.0033711757369496455,0.0,Indiana Pacers,2022,Indiana Pacers 2022
+0.0033711757369496455,0.0,Oklahoma City Thunder,2022,Oklahoma City Thunder 2022
+0.0033711757369496455,0.0,Detroit Pistons,2022,Detroit Pistons 2022
+0.0033711757369496455,0.0,Orlando Magic,2022,Orlando Magic 2022
+0.0033711757369496455,0.0,Houston Rockets,2022,Houston Rockets 2022
+0.5892206094796791,0.0625,Milwaukee Bucks,2023,Milwaukee Bucks 2023
+0.5658826495679372,0.6875,Boston Celtics,2023,Boston Celtics 2023
+0.5131136066403326,0.4375,Philadelphia 76ers,2023,Philadelphia 76ers 2023
+0.6031803713208895,1.0,Denver Nuggets,2023,Denver Nuggets 2023
+0.46535466751399773,0.125,Memphis Grizzlies,2023,Memphis Grizzlies 2023
+0.1289602417956622,0.0625,Cleveland Cavaliers,2023,Cleveland Cavaliers 2023
+0.2542656103990951,0.1875,Sacramento Kings,2023,Sacramento Kings 2023
+0.17279808483041953,0.375,New York Knicks,2023,New York Knicks 2023
+0.27317236035023207,0.0,Brooklyn Nets,2023,Brooklyn Nets 2023
+0.11785121081703318,0.375,Phoenix Suns,2023,Phoenix Suns 2023
+0.13353686198251277,0.8125,Miami Heat,2023,Miami Heat 2023
+0.24778357232464257,0.375,Golden State Warriors,2023,Golden State Warriors 2023
+0.207895136170796,0.0625,Los Angeles Clippers,2023,Los Angeles Clippers 2023
+0.21328624554132847,0.5,Los Angeles Lakers,2023,Los Angeles Lakers 2023
+0.10728050374525826,0.0,New Orleans Pelicans,2023,New Orleans Pelicans 2023
+0.12523787922231766,0.125,Atlanta Hawks,2023,Atlanta Hawks 2023
+0.09381079659394201,0.0625,Minnesota Timberwolves,2023,Minnesota Timberwolves 2023
+0.10728050374525826,0.0,Toronto Raptors,2023,Toronto Raptors 2023
+0.1289602417956622,0.0,Oklahoma City Thunder,2023,Oklahoma City Thunder 2023
+0.1779067082334062,0.0,Chicago Bulls,2023,Chicago Bulls 2023
+0.06367714303914876,0.0,Dallas Mavericks,2023,Dallas Mavericks 2023
+0.008480411715295065,0.0,Utah Jazz,2023,Utah Jazz 2023
+0.0029200168858705055,0.0,Washington Wizards,2023,Washington Wizards 2023
+0.0019766206578830845,0.0,Indiana Pacers,2023,Indiana Pacers 2023
+0.0019766206578830845,0.0,Orlando Magic,2023,Orlando Magic 2023
+0.00453479165318778,0.0,Portland Trail Blazers,2023,Portland Trail Blazers 2023
+0.0019766206578830845,0.0,Charlotte Hornets,2023,Charlotte Hornets 2023
+0.0019766206578830845,0.0,Houston Rockets,2023,Houston Rockets 2023
+0.0019766206578830845,0.0,San Antonio Spurs,2023,San Antonio Spurs 2023
+0.0019766206578830845,0.0,Detroit Pistons,2023,Detroit Pistons 2023
