@@ -6,7 +6,7 @@
 
 #### Acquired Data since 1950 from ![basketballreference](https://www.basketball-reference.com/about/glossary.html)
 ##### Database Construction:
-1. WebScrapped and Hand Copied Data Tables:
+1. WebScraped and Hand Copied Data Tables:
    ###### Team Stats:
    - Team Regular Season Basic Per Games Stats
    - Team Regular Season Opponent Basic Per Game Stats
