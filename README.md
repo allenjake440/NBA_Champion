@@ -32,16 +32,8 @@
    - Pre-Season odds via basketballreference
    - Pre-Playoff Odds via SportsOddsHistory
 
-2. Merged (joined) Data Tables:
-   
-   ###### Team Database:
-    - Merged all team datatables and stats
-      
-   ###### Player Database:
-    - Merged all player datatables and stats
-  
-   ###### Coach Database:
-    - Merged all coach datatables and stats
+2. RawData file was created in Excel
 
-3. Info on all Custom Calculated Features:
-   - Visit the NBA DataBase Feature Overview file
+3. Custom Features:
+![image](https://github.com/user-attachments/assets/4af83ce0-6625-42e3-a22a-f2c95af419b0)
+
