@@ -6,5 +6,5 @@
 
 #### Acquired Data since 1950 from ![basketballreference](https://www.basketball-reference.com/about/glossary.html)
 
+![web_scraping](https://github.com/user-attachments/assets/2bef75b4-47e0-4ace-afe3-680b3ced56ef)
 
-![web_scraping](https://github.com/user-attachments/assets/eb3272b8-1f27-4545-90f3-ffb2dccdf9cc)
