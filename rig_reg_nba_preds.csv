@@ -1,81 +1,81 @@
 Season,Team/Season,Team,predicted_cs,champion_share
-2024,Los Angeles Lakers 2024,Los Angeles Lakers,0.09927276091788964,0.0625
-2024,Minnesota Timberwolves 2024,Minnesota Timberwolves,0.4578496309058984,0.5625
+2024,Los Angeles Lakers 2024,Los Angeles Lakers,0.09927276091788975,0.0625
+2024,Minnesota Timberwolves 2024,Minnesota Timberwolves,0.4578496309058983,0.5625
 2024,Miami Heat 2024,Miami Heat,0.1442183052692845,0.0625
-2024,Boston Celtics 2024,Boston Celtics,0.6563790743063924,1.0
-2024,Denver Nuggets 2024,Denver Nuggets,0.5649551389667216,0.4375
-2024,Indiana Pacers 2024,Indiana Pacers,0.15275196254656942,0.5
-2024,Oklahoma City Thunder 2024,Oklahoma City Thunder,0.4693140755807783,0.375
-2024,Philadelphia 76ers 2024,Philadelphia 76ers,0.20107303340560082,0.125
-2024,Orlando Magic 2024,Orlando Magic,0.12562392492816846,0.1875
-2024,Los Angeles Clippers 2024,Los Angeles Clippers,0.10954618742987829,0.125
-2024,Cleveland Cavaliers 2024,Cleveland Cavaliers,0.12118946175927153,0.3125
-2024,New Orleans Pelicans 2024,New Orleans Pelicans,0.10012270899996992,0.0
-2024,Phoenix Suns 2024,Phoenix Suns,0.10821968984447919,0.0
-2024,Milwaukee Bucks 2024,Milwaukee Bucks,0.5232892479910731,0.125
+2024,Boston Celtics 2024,Boston Celtics,0.6563790743063922,1.0
+2024,Denver Nuggets 2024,Denver Nuggets,0.5649551389667214,0.4375
+2024,Indiana Pacers 2024,Indiana Pacers,0.15275196254656925,0.5
+2024,Oklahoma City Thunder 2024,Oklahoma City Thunder,0.46931407558077815,0.375
+2024,Philadelphia 76ers 2024,Philadelphia 76ers,0.20107303340560076,0.125
+2024,Orlando Magic 2024,Orlando Magic,0.12562392492816843,0.1875
+2024,Los Angeles Clippers 2024,Los Angeles Clippers,0.10954618742987834,0.125
+2024,Cleveland Cavaliers 2024,Cleveland Cavaliers,0.12118946175927148,0.3125
+2024,New Orleans Pelicans 2024,New Orleans Pelicans,0.10012270899997006,0.0
+2024,Phoenix Suns 2024,Phoenix Suns,0.10821968984447922,0.0
+2024,Milwaukee Bucks 2024,Milwaukee Bucks,0.5232892479910729,0.125
 2024,Dallas Mavericks 2024,Dallas Mavericks,0.06812304605470165,0.8125
-2024,New York Knicks 2024,New York Knicks,0.43232129444623074,0.4375
+2024,New York Knicks 2024,New York Knicks,0.4323212944462308,0.4375
 2023,Milwaukee Bucks 2023,Milwaukee Bucks,0.6421023280636418,0.0625
 2023,Cleveland Cavaliers 2023,Cleveland Cavaliers,0.17093846260450332,0.0625
 2023,Denver Nuggets 2023,Denver Nuggets,0.6479973988037435,1.0
-2023,Atlanta Hawks 2023,Atlanta Hawks,0.07386480209720381,0.125
-2023,Minnesota Timberwolves 2023,Minnesota Timberwolves,0.1490801646241631,0.0625
-2023,Memphis Grizzlies 2023,Memphis Grizzlies,0.44000181544404493,0.125
-2023,Los Angeles Lakers 2023,Los Angeles Lakers,0.13683922487818678,0.5
+2023,Atlanta Hawks 2023,Atlanta Hawks,0.0738648020972037,0.125
+2023,Minnesota Timberwolves 2023,Minnesota Timberwolves,0.14908016462416301,0.0625
+2023,Memphis Grizzlies 2023,Memphis Grizzlies,0.4400018154440448,0.125
+2023,Los Angeles Lakers 2023,Los Angeles Lakers,0.13683922487818673,0.5
 2023,Boston Celtics 2023,Boston Celtics,0.5918459881962026,0.6875
 2023,Golden State Warriors 2023,Golden State Warriors,0.2710613232606882,0.375
-2023,Los Angeles Clippers 2023,Los Angeles Clippers,0.12865669549752384,0.0625
+2023,Los Angeles Clippers 2023,Los Angeles Clippers,0.12865669549752373,0.0625
 2023,Miami Heat 2023,Miami Heat,0.10942747062867517,0.8125
-2023,Brooklyn Nets 2023,Brooklyn Nets,0.11123387088523454,0.0
-2023,Phoenix Suns 2023,Phoenix Suns,0.1641747281217695,0.375
+2023,Brooklyn Nets 2023,Brooklyn Nets,0.1112338708852344,0.0
+2023,Phoenix Suns 2023,Phoenix Suns,0.16417472812176942,0.375
 2023,Sacramento Kings 2023,Sacramento Kings,0.37547138724663925,0.1875
-2023,New York Knicks 2023,New York Knicks,0.13442733257415032,0.375
-2023,Philadelphia 76ers 2023,Philadelphia 76ers,0.5535216783034358,0.4375
+2023,New York Knicks 2023,New York Knicks,0.13442733257415035,0.375
+2023,Philadelphia 76ers 2023,Philadelphia 76ers,0.5535216783034355,0.4375
 2022,Brooklyn Nets 2022,Brooklyn Nets,0.12502430424595593,0.0
-2022,Dallas Mavericks 2022,Dallas Mavericks,0.16834576353863906,0.5625
-2022,Atlanta Hawks 2022,Atlanta Hawks,0.11388862258234439,0.0625
-2022,Boston Celtics 2022,Boston Celtics,0.5014998907154773,0.875
-2022,Philadelphia 76ers 2022,Philadelphia 76ers,0.5160133205867008,0.375
+2022,Dallas Mavericks 2022,Dallas Mavericks,0.1683457635386391,0.5625
+2022,Atlanta Hawks 2022,Atlanta Hawks,0.11388862258234436,0.0625
+2022,Boston Celtics 2022,Boston Celtics,0.5014998907154775,0.875
+2022,Philadelphia 76ers 2022,Philadelphia 76ers,0.5160133205867006,0.375
 2022,New Orleans Pelicans 2022,New Orleans Pelicans,0.06600592521927107,0.125
 2022,Milwaukee Bucks 2022,Milwaukee Bucks,0.5660799539430914,0.4375
 2022,Utah Jazz 2022,Utah Jazz,0.2860414146726984,0.125
-2022,Phoenix Suns 2022,Phoenix Suns,0.6479422390015596,0.4375
-2022,Toronto Raptors 2022,Toronto Raptors,0.0941510709360047,0.125
-2022,Denver Nuggets 2022,Denver Nuggets,0.27968796111199123,0.0625
-2022,Golden State Warriors 2022,Golden State Warriors,0.6733748709068644,1.0
-2022,Memphis Grizzlies 2022,Memphis Grizzlies,0.4556386824656669,0.375
-2022,Miami Heat 2022,Miami Heat,0.5134590650016287,0.6875
+2022,Phoenix Suns 2022,Phoenix Suns,0.6479422390015597,0.4375
+2022,Toronto Raptors 2022,Toronto Raptors,0.09415107093600472,0.125
+2022,Denver Nuggets 2022,Denver Nuggets,0.2796879611119911,0.0625
+2022,Golden State Warriors 2022,Golden State Warriors,0.6733748709068645,1.0
+2022,Memphis Grizzlies 2022,Memphis Grizzlies,0.45563868246566697,0.375
+2022,Miami Heat 2022,Miami Heat,0.5134590650016286,0.6875
 2022,Chicago Bulls 2022,Chicago Bulls,0.058099863823593556,0.0625
 2022,Minnesota Timberwolves 2022,Minnesota Timberwolves,0.08197169760985198,0.125
-2021,New York Knicks 2021,New York Knicks,0.09282836484543375,0.0625
-2021,Washington Wizards 2021,Washington Wizards,0.07152889194144535,0.0625
+2021,New York Knicks 2021,New York Knicks,0.09282836484543364,0.0625
+2021,Washington Wizards 2021,Washington Wizards,0.0715288919414454,0.0625
 2021,Phoenix Suns 2021,Phoenix Suns,0.5567516696618542,0.875
-2021,Portland Trail Blazers 2021,Portland Trail Blazers,0.06841800284612609,0.125
-2021,Memphis Grizzlies 2021,Memphis Grizzlies,0.049004205987365934,0.0625
-2021,Dallas Mavericks 2021,Dallas Mavericks,0.11202572952914608,0.1875
-2021,Brooklyn Nets 2021,Brooklyn Nets,0.6170710128916006,0.4375
-2021,Miami Heat 2021,Miami Heat,0.10294249559726795,0.0
+2021,Portland Trail Blazers 2021,Portland Trail Blazers,0.06841800284612598,0.125
+2021,Memphis Grizzlies 2021,Memphis Grizzlies,0.04900420598736582,0.0625
+2021,Dallas Mavericks 2021,Dallas Mavericks,0.11202572952914602,0.1875
+2021,Brooklyn Nets 2021,Brooklyn Nets,0.6170710128916008,0.4375
+2021,Miami Heat 2021,Miami Heat,0.10294249559726784,0.0
 2021,Philadelphia 76ers 2021,Philadelphia 76ers,0.5532515337567694,0.4375
-2021,Los Angeles Lakers 2021,Los Angeles Lakers,0.2541398222303984,0.125
-2021,Atlanta Hawks 2021,Atlanta Hawks,0.10428255478487544,0.625
-2021,Boston Celtics 2021,Boston Celtics,0.13652262146011554,0.0625
+2021,Los Angeles Lakers 2021,Los Angeles Lakers,0.2541398222303983,0.125
+2021,Atlanta Hawks 2021,Atlanta Hawks,0.10428255478487539,0.625
+2021,Boston Celtics 2021,Boston Celtics,0.13652262146011548,0.0625
 2021,Utah Jazz 2021,Utah Jazz,0.6028372397696637,0.375
 2021,Los Angeles Clippers 2021,Los Angeles Clippers,0.6068151866643325,0.625
 2021,Denver Nuggets 2021,Denver Nuggets,0.47004115715324774,0.25
 2021,Milwaukee Bucks 2021,Milwaukee Bucks,0.6417818951144967,1.0
-2020,Oklahoma City Thunder 2020,Oklahoma City Thunder,0.11452138087403624,0.1875
-2020,Milwaukee Bucks 2020,Milwaukee Bucks,0.6687902217366579,0.3125
+2020,Oklahoma City Thunder 2020,Oklahoma City Thunder,0.11452138087403621,0.1875
+2020,Milwaukee Bucks 2020,Milwaukee Bucks,0.6687902217366581,0.3125
 2020,Utah Jazz 2020,Utah Jazz,0.21435103628688784,0.1875
-2020,Houston Rockets 2020,Houston Rockets,0.3123113499762755,0.3125
-2020,Indiana Pacers 2020,Indiana Pacers,0.14235466812669387,0.0
+2020,Houston Rockets 2020,Houston Rockets,0.31231134997627547,0.3125
+2020,Indiana Pacers 2020,Indiana Pacers,0.1423546681266938,0.0
 2020,Orlando Magic 2020,Orlando Magic,0.05772971205356392,0.0625
-2020,Los Angeles Clippers 2020,Los Angeles Clippers,0.5864899241302833,0.4375
-2020,Miami Heat 2020,Miami Heat,0.23204507043998523,0.875
+2020,Los Angeles Clippers 2020,Los Angeles Clippers,0.5864899241302831,0.4375
+2020,Miami Heat 2020,Miami Heat,0.2320450704399853,0.875
 2020,Dallas Mavericks 2020,Dallas Mavericks,0.23148204287197588,0.125
-2020,Denver Nuggets 2020,Denver Nuggets,0.3753121398020525,0.5625
+2020,Denver Nuggets 2020,Denver Nuggets,0.3753121398020524,0.5625
 2020,Los Angeles Lakers 2020,Los Angeles Lakers,0.6728105686247957,1.0
 2020,Toronto Raptors 2020,Toronto Raptors,0.5028564036758647,0.4375
-2020,Boston Celtics 2020,Boston Celtics,0.5140744085003213,0.625
+2020,Boston Celtics 2020,Boston Celtics,0.5140744085003212,0.625
 2020,Philadelphia 76ers 2020,Philadelphia 76ers,0.2133991717370154,0.0
-2020,Brooklyn Nets 2020,Brooklyn Nets,0.12722296213757722,0.0
-2020,Portland Trail Blazers 2020,Portland Trail Blazers,0.07466818605428541,0.0625
+2020,Brooklyn Nets 2020,Brooklyn Nets,0.12722296213757714,0.0
+2020,Portland Trail Blazers 2020,Portland Trail Blazers,0.07466818605428549,0.0625
