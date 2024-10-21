@@ -1,6 +1,8 @@
 # Predicting the NBA Champion Using Machine Learning
 
-![NBA Champion Art](https://github.com/allenjake440/NBA_Champion/assets/134075534/b7d724d9-5452-45d2-abac-81128c34a8f6)
+<p align="center">
+  <img src="https://github.com/allenjake440/NBA_Champion/assets/134075534/b7d724d9-5452-45d2-abac-81128c34a8f6" alt="NBA Champion Art">
+</p>
 
 ## Overview
 
