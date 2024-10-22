@@ -40,7 +40,7 @@ This is a fully coded, automated NBA Champion Prediction Project. Follow the ste
 
 ---
 
-## Web Scraping
+## The Project Outline
 
 ![Web Scraping](https://github.com/user-attachments/assets/2bef75b4-47e0-4ace-afe3-680b3ced56ef)
 
