@@ -2,7 +2,8 @@
 
 - **Player Rating Custom** is a regression-based, scaled formula that assigns a season score to each player on a -50 to 150 scale. This rating takes into player regular season value over replacement, regular season points per game average, players total past mvp votes, player total past dpoy (defensive player of the year) votes, the player total mvp votes from the last 5 seasons, the player total past playoff games played in, and that player associated teams SRS score (average adjusted margin of victory).
 - **Team Rating Custom** is simply the average of all Player Rating Custom values for players on that team for the given season. This score represents the overall performance level of the team by summarizing individual player contributions.
-
+- [**Click Here**](https://www.basketball-reference.com/about/glossary.html) For information on the advanced statistics = VORP "Value over replacement"
+   
 ## Methodology 
 
 1. **Feature Scaling**: Each feature is absoluated min-max scaled.
