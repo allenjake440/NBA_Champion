@@ -29,19 +29,19 @@ The code and visualizations provided clarify each feature's weight (as a percent
 ### Bar Chart Feature Weights Breakdown
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8751d085-d5f5-4b50-90bb-9dadf633b5ba" alt="player_rat_cus">
+  <img src="https://github.com/user-attachments/assets/982ad68a-21d3-4439-96b0-703a5cc2d4ed" alt="player_rat_cus">
 </div>
 
 ### Code for Player Custom Rating Calculation
 
 ```python
 player_db['player_rating_custom'] = (
-    (player_db['rs_advance_VORP'] * 4.999999999999984) +
-    (player_db['sum_mvp_shares_L5S'] * 0.9999999999999617) +
-    (player_db['sum_dpoy_shares'] * 0.9999999999999899) +
-    (player_db['SRS'] * 1.9999999999999931) +
-    (player_db['sum_playoff_games'] * 0.1409999999998981) +
-    (player_db['sum_mvp_shares'] *  0.0005000000000003995) +
-    (player_db['rs_per_game_PTS'] * 1.4999999999999951)
+    (player_db['rs_advance_VORP'] * 5) +
+    (player_db['sum_mvp_shares_L5S'] * 1) +
+    (player_db['sum_dpoy_shares'] * 1) +
+    (player_db['SRS'] * 2) +
+    (player_db['sum_playoff_games'] * .0005) +
+    (player_db['sum_mvp_shares'] *  .005) +
+    (player_db['rs_per_game_PTS'] * 1.5)
 )
 ```
