@@ -30,9 +30,10 @@ This is a fully coded, automated NBA Champion Prediction Project. Follow the ste
 
 2. **Update Season Index**:
    - Every season, manually update the `custom_team_season_index` DataFrame following the format already in the file.
-   - You can also add matchup values, but again, ensure that the data layout remains consistent.
+   - You can also add matchup values, but again, ensure that the data layout remains consistent with the previous seasons.
 
 3. **Run the Python Notebooks**:
+   - IMPORTANT NOTES: If you're running this project to predict the new season post-season winner, wait at least 1 day after the playoffs begin. Playoff data must be present on site for the scraper to work in this fashion.
    - Once the manual updates are complete, execute the Python notebooks in the following order:
      - `nba_web_scraper.ipynb`
      - `nba_champ_data.ipynb`
