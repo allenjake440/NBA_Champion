@@ -30,7 +30,7 @@ The code and visualizations provided clarify each feature's weight (as a percent
 ### Bar Charts
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/262d423d-7b4d-461d-a2f7-f7544f28020b)" alt="player_rat_cus">
+  <img src="https://github.com/user-attachments/assets/262d423d-7b4d-461d-a2f7-f7544f28020b" alt="player_rat_cus">
 </div>
 
 <div align="center">
