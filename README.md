@@ -18,47 +18,38 @@ Data has been acquired since 1950 from [Basketball Reference](https://www.basket
 
 ---
 
-# Premium Sports Analytics Access
+## Project Details
 
-Welcome! This repository is part of a private collection of **3 fully-loaded sports analytics projects**, available exclusively through my [Patreon](https://www.patreon.com/c/JakeAllenData/membership).
+This is a fully coded, automated NBA Champion Prediction Project. Follow the steps below to ensure your data is up-to-date and to run the prediction model.
 
-## Included with Subscription
+### Steps to Set Up and Run the Project
 
-By joining the $5/month tier, you'll gain full access to all of the following:
+1. **Update Franchise Index**:
+   - Manually update the `custom_team_franchise_index` DataFrame if a new franchise enters the league.
+   - Make sure to add the new data to the CSV file while keeping the data layout unchanged.
 
-### NBA Champion Predictor & Analytics
-- Raw historical data on teams, players, advanced stats, and playoff stats.
-- Feature engineered data, in-depth player and team metrics.
-- Machine Learning and Data Analysis on it all.
-- Analytics and visualizations.
+2. **Update Season Index**:
+   - Every season, manually update the `custom_team_season_index` DataFrame following the format already in the file.
+   - You can also add matchup values, but again, ensure that the data layout remains consistent with the previous seasons.
 
-### NFL Champion Predictor & Analytics
-- Raw historical data on teams, players, advanced stats, and playoff stats.
-- Feature engineered data, in-depth player and team metrics.
-- Machine Learning and Data Analysis on it all.
-- Analytics and visualizations.
-
-### NCAA March Madness Predictor & Analytics
-- Raw historical data on teams, players, advanced stats, and tournament stats.
-- Feature engineered data, in-depth player and team metrics.
-- Machine Learning and Data Analysis on it all.
-- Analytics and visualizations.
+3. **Run the Python Notebooks**:
+   - *IMPORTANT NOTE*: If you're running this project to predict the new season post-season winner, wait at least 1 day after the playoffs begin. Playoff data must be present on site for the scraper to work in this fashion.
+   - Once the manual updates are complete, execute the Python notebooks in the following order:
+     - `nba_web_scraper.ipynb`
+     - `nba_champ_data.ipynb`
+     - `nba_champ_ml.ipynb`
 
 ---
 
-## What’s Included in Each Repo
-- Full raw datasets (CSV/Excel)
-- Clean compiler scripts for merging and structuring data.
-- Complete machine learning pipelines (with model evaluation).
-- Visualizations (team rankings, predicted win odds, trend charts, and more.)
-- Python notebooks + modular scripts for full flexibility.
+## The Project Outline
+
+![Web Scraping](https://github.com/user-attachments/assets/2bef75b4-47e0-4ace-afe3-680b3ced56ef)
+
+The project involves web scraping for real-time data acquisition from reliable sources, ensuring that the predictions are based on up-to-date stats.
 
 ---
 
-## How to Get Access
+### Notes
 
-1. Join the [$5/month Patreon tier](https://www.patreon.com/c/JakeAllenData/membership)
-2. Send me your **GitHub username** via DM or post on Patreon
-3. You'll be invited to all 3 private GitHub repositories within 24 hours
-
----
+- Ensure the data layout in the CSV files remains unchanged when updating them.
+- This project automates the data scraping, data preparation, and machine learning model execution.
